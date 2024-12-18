@@ -1,2 +1,2 @@
-# JC-Portfolio
-My first client portfolio
+# Portfolio
+Go to Site >>>> https://sawla-1.github.io/JC-Portfolio/
