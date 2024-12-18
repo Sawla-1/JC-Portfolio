@@ -1,4 +1,4 @@
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1440px) {
   #profile {
     height: 83vh;
     margin-bottom: 6rem;
@@ -9,6 +9,12 @@
   #contact,
   #projects {
     height: fit-content;
+  }
+  .footer-nav{
+    display: none;
+  }
+  footer{
+    height: 8vh;
   }
 }
 
@@ -44,6 +50,12 @@
   }
   .about-containers {
     margin-top: 0;
+  }
+  .footer-nav{
+    display: block;
+  }
+  footer{
+    height: 26vh;
   }
 }
 
