@@ -444,6 +444,6 @@ nav{
 }
 
 /* Project 1 Button  */
-#projects button{
+#projects .project1-btn{
   width: auto;
 }
