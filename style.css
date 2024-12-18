@@ -442,3 +442,8 @@ nav{
   /* backdrop-filter: blur(50px); */
   /* background-color: white; */
 }
+
+/* Project 1 Button  */
+.project1-btn{
+  width: auto;
+}
