@@ -10,12 +10,6 @@
   #projects {
     height: fit-content;
   }
-  .footer-nav{
-    display: none;
-  }
-  footer{
-    height: 8vh;
-  }
 }
 
 @media screen and (max-width: 1200px) {
@@ -50,12 +44,6 @@
   }
   .about-containers {
     margin-top: 0;
-  }
-  .footer-nav{
-    display: block;
-  }
-  footer{
-    height: 26vh;
   }
 }
 
